@@ -1,11 +1,11 @@
 ---
 layout: default 
-title: Social Media
-permalink: /social_media/
-handle: Social Media
+title: Projects
+permalink: /projects/
+handle: Projects
 ---
 
-Here are some useful links for getting involved in the Open Scholars Project:
+The Open Knowledge Center  :
 
 * **Discord Page**
 
