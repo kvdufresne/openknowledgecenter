@@ -1,31 +1,38 @@
 ---
 layout: default 
-title: People
+title: Team
 permalink: /people/
 ---
 
-# Open Scholarship Taskforce
+# Open Knowledge Center Team
 
-**Camille Thomas**  
-Scholarly Communication Librarian  
-cthomas5[at]fsu[dot]edu  
+**[Will Cross](https://www.lib.ncsu.edu/staff/wmcross)**  
+Director, Open Knowledge Center & Head of Information Policy
+wmcross@ncsu.edu
 
-**Jonathan DaSo**  
-Digital Literacy and Modern Languages Librarian  
-jdaso[at]fsu[dot]edu  
+**[Ashley Evans Bandy](https://www.lib.ncsu.edu/staff/apbandy)**  
+NCSU Libraries Fellow
+apbandy@ncsu.edu 
 
-**Daniel Dunleavy**  
-Postdoctoral Research Fellow, Center for Translational Behavioral Science  
-djd09e[at]fsu[dot]edu  
+**[Micah Vandegrift](https://www.lib.ncsu.edu/staff/mlvandeg)**  
+Open Knowledge Librarian
+mlvandeg@ncsu.edu
 
-**Danielle Krusemark**  
-PhD Student [Social Psychology]  
-krusemark[at]psy[dot]fsu[dot]edu  
+**[Kelsey Dufresne](https://www.lib.ncsu.edu/staff/kvdowns)**  
+Digital Project Coordinator 
+kvdowns@ncsu.edu 
 
-**Emily McClellan**  
-STEM Outreach Associate  
-etmcclellan[at]fsu[dot]edu  
+**[Jenna Strawbridge](https://www.lib.ncsu.edu/staff/jstrawb)**  
+Research Assistant
+jstrawb@ncsu.edu 
 
-**Roxann Mouratidis**  
-Head of Scholarly Communications, College of Medicine  
-roxann.mouratidis[at]med[dot]fsu[dot]edu  
+
+# Open Knowledge Center Alumni & Affiliates 
+
+**Scott Bailey**  
+
+**Allison Kittinger**
+
+**Carrie Hill**
+
+**Nathan Woods**
