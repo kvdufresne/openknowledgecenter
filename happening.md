@@ -36,7 +36,7 @@ permalink: /happening/
 **Initiatives**
 
 - [Alt Textbook](https://www.lib.ncsu.edu/alttextbook)
-  - The NC State University Libraries is committed to fostering change in the current textbook publishing environment. The Libraries&#39; [Open Knowledge Center](https://www.lib.ncsu.edu/department/okc) is available to partner with faculty members on licensing resources, using digital repositories, and creating and publishing their own open educational resources. The Alt-Textbook Project empowers faculty to innovate pedagogically, enhance access for NC State students to high-quality, tailored educational materials, and reduce the financial burden of expensive textbooks.
+   The NC State University Libraries is committed to fostering change in the current textbook publishing environment. The Libraries&#39; [Open Knowledge Center](https://www.lib.ncsu.edu/department/okc) is available to partner with faculty members on licensing resources, using digital repositories, and creating and publishing their own open educational resources. The Alt-Textbook Project empowers faculty to innovate pedagogically, enhance access for NC State students to high-quality, tailored educational materials, and reduce the financial burden of expensive textbooks.
 
 **Incubators**
 
