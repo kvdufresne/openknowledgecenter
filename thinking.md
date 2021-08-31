@@ -5,9 +5,7 @@ permalink: /thinking/
 handle: Thinking
 ---
 
-# Thinking
-
-## Things we are writing and researching
+# Things we are writing and researching
 
 Micah's ["Defining Social Impact"](https://medium.com/accelerating-the-social-impact-of-research/defining-social-impact-1a68a18f5314)
 "I’m doing quite a bit of reading about social or societal impact connected to open science. The easiest starting point, and one that is not uncommon, is the UN’s Sustainable Development Goals (SDGs). The SDGs are the clearest outline of the wicked problems facing humanity, and offer helpful hooks on which to hang our collective work.
@@ -17,7 +15,7 @@ Kelsey's ["Digital Pedagogy Lab: 2021"](https://kvdufresne.medium.com/digital-pe
 "Inclusive Design, Design Justice, and Striving for Equity. How can we strive for equity, access, and inclusion in our learning spaces, in our institutional designs, and in our everyday decisions? Inclusive design and design justice, as taught through the Digital Pedagogy Lab, encourage us to ask questions such as this — and then work together to make it happen. While providing a contextual overview of Digital Pedagogy Lab’s Inclusive Design and Design Justice track, I also outline key takeaways of inclusive design and design justice as well as opportunities for library and classroom implementation."
 
 
-## Media Recommendations 
+# Media Recommendations 
 
 [Data Feminism](https://mitpress.mit.edu/books/data-feminism)
 
@@ -48,7 +46,7 @@ Kelsey's ["Digital Pedagogy Lab: 2021"](https://kvdufresne.medium.com/digital-pe
 [Dear Data](http://www.dear-data.com/theproject)
 
 
-## We are inspired by things like:
+# We are inspired by things like:
 
 - [Communities of Practice](https://wenger-trayner.com/introduction-to-communities-of-practice/)
 - [Community Cultivation](https://educopia.org/cultivation/)
