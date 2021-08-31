@@ -18,14 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Open Scholars Project
-email: your-email@example.com
+title: Open Knowledge Center
+email: https://www.lib.ncsu.edu/okc/contact
 description: >- # this means to ignore newlines until "baseurl:"
-  The website for the Open Scholars Project
+  The website for the Open Knowledge Center
 # baseurl: # the subpath of your site, e.g. /blog
-url: "https://openscholars.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://openknowledgecenter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 
 # Build settings
 theme: minima
