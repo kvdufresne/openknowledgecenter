@@ -21,7 +21,7 @@ footer {
 }
 
 footer a {
-  color: #CEB888;
+  color: #5e5b52;
 }
  
  h1 {
@@ -89,7 +89,7 @@ div#publications img {
      }
 
      nav a:hover {
-       background-color: #CEB888;
+       background-color: #d1becf;
        color: black;
      }
 
