@@ -8,27 +8,22 @@ permalink: /people/
 
 **[Will Cross](https://www.lib.ncsu.edu/staff/wmcross)**  
 Director, Open Knowledge Center & Head of Information Policy
-
 wmcross@ncsu.edu
 
 **[Micah Vandegrift](https://www.lib.ncsu.edu/staff/mlvandeg)**  
 Open Knowledge Librarian
-
 mlvandeg@ncsu.edu
 
 **[Ashley Evans Bandy](https://www.lib.ncsu.edu/staff/apbandy)**  
 NCSU Libraries Fellow
-
 apbandy@ncsu.edu 
 
 **[Kelsey Dufresne](https://www.lib.ncsu.edu/staff/kvdowns)**  
 Digital Project Coordinator 
-
 kvdowns@ncsu.edu 
 
 **[Jenna Strawbridge](https://www.lib.ncsu.edu/staff/jstrawb)**  
 Research Assistant
-
 jstrawb@ncsu.edu 
 
 **Rachel O’Reilly** 
