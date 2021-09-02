@@ -2,9 +2,11 @@ body {
   font-family: 'Montserrat', sans-serif;
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 
 header {
+  font-family: 'Monoton', cursive;
   height: 80px;
   text-align: center;
   background-color: #87BAAB;
@@ -21,7 +23,8 @@ footer {
 }
 
 footer a {
-  color: #F1DB4B;
+   background-color: #F1DB4B;
+   color: #FFFFFF;
 }
  
  h1 {
@@ -71,7 +74,7 @@ div#publications img {
      }
      
      nav {
-       background-color:#000000;
+       background-color:#F1DB4B;
        width: 100%;
        text-align: center;
        top: 0;
@@ -86,11 +89,11 @@ div#publications img {
        text-align: center;
        padding: 20px;
        text-decoration: none;
-       float:left;
+       float:right;
      }
 
      nav a:hover {
-       background-color: #d1becf;
+       background-color: #EF6461;
        color: black;
      }
 
@@ -104,7 +107,7 @@ div#publications img {
        color: white;
        padding: 20px;
        font-size: inherit;
-       font-family: 'Roboto', sans-serif;
+       font-family: 'Montserrat', sans-serif;
        background-color: inherit;
        margin: 0;
      }
@@ -218,7 +221,7 @@ div#publications img {
       width: 100%;
       color: white;
       font-size: 0.7em;
-      font-family: 'Roboto', sans-serif;
+      font-family: 'Montserrat', sans-serif;
       background-color: inherit;
       text-align: center;
       margin: 0;
