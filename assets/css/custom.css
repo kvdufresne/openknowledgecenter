@@ -7,7 +7,7 @@ body {
 header {
   height: 80px;
   text-align: center;
-  background-color: #FFB8A2;
+  background-color: #87BAAB;
   background: url(/assets/images/OpenScholarsProject_white.png) no-repeat center top fixed;
   background-size: cover;
 }
@@ -16,22 +16,22 @@ footer {
   height: 100px;
   padding-top: 10px;
   text-align: center;
-  background-color: #000000;
+  background-color: #5E5B52;
   color: #FFFFFF;
 }
 
 footer a {
-  color: #5e5b52;
+  color: #F1DB4B;
 }
  
  h1 {
    color: #000000;
    font-family: 'Monoton', cursive;
-   font-size: 40pt;
+   font-size: 80pt;
 }
 
 a {
-  color:#782F40;
+  color:#EF6461;
 }
 
 .container {
