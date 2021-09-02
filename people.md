@@ -20,7 +20,7 @@ permalink: /people/
 		</p>
 	</dd>
 	
-<dt>Micah Vandegrift</dt>
+<dt><b>Micah Vandegrift</b></dt>
 	<dd>
 		<p>Open Knowledge Librarian [mlvandeg@ncsu.edu](mailto:mlvandeg@ncsu.edu)
 		<ul>
@@ -32,7 +32,7 @@ permalink: /people/
 		</p>
 	</dd>
 	
-<dt>Ashley Evans Bandy</dt>
+<dt><b>Ashley Evans Bandy</b></dt>
 	<dd>
 		<p>NCSU Libraries Fellow [apbandy@ncsu.edu](mailto:apbandy@ncsu.edu)
 		<ul>
@@ -41,7 +41,7 @@ permalink: /people/
 		</p>
 	</dd>
 
-<dt>Kelsey Dufresne</dt>
+<dt><b>Kelsey Dufresne</b></dt>
 	<dd>
 		<p>Digital Project Coordinator [kvdowns@ncsu.edu](mailto:kvdowns@ncsu.edu)
 		<ul>
@@ -53,17 +53,17 @@ permalink: /people/
 		</p>
 	</dd>
 	
-<dt>Jenna Strawbridge</dt>
+<dt><b>Jenna Strawbridge</b></dt>
 	<dd>
 		<p>Research Assistant [jstrawb@ncsu.edu](mailto:jstrawb@ncsu.edu)</p>
 	</dd>
 	
-<dt>Rachel O&#39;Reilly</dt>
+<dt><b>Rachel O&#39;Reilly</b></dt>
 	<dd>
 		<p>Graduate Assistant</p>
 	</dd>
 
-<dt>Sara Kittleson</dt>
+<dt<b>>Sara Kittleson</b></dt>
 	<dd>
 		<p>Graduate Assistant</p>
 	</dd>
@@ -72,35 +72,35 @@ permalink: /people/
 	
 <h3 id="content">Our alums</h3>
  <dl>
-	<dt>Scott Bailey</dt>
+	<dt><b>Scott Bailey</b></dt>
 	<dd>
 		<p>[Website](https://csbailey.org/)</p>
 	</dd>
-	<dt>Allison Kittinger</dt>
+	<dt><b>Allison Kittinger</b></dt>
 	<dd>
 		<p>[Website](http://www.allisonkittinger.com/)</p>
 	</dd>
-	<dt>Carrie Hill</dt>
+	<dt><b>Carrie Hill</b></dt>
 	<dd>
 		<p>[Website](http://carriedianehill.com/)</p>
 	</dd>
-	<dt>Nathan Woods</dt>
+	<dt><b>Nathan Woods</b></dt>
 	<dd>
 		<p>[Website](http://nathandwoods.net/)</p>
 	</dd>
-	<dt>Abby Mann</dt>
+	<dt><b>Abby Mann</b></dt>
 	<dd>
 		<p>[Staff page](https://libguides.iwu.edu/prf.php?account_id=291300)</p>
 	</dd>
-	<dt>Lynnee Argabright</dt>
+	<dt><b>Lynnee Argabright</b></dt>
 	<dd>
 		<p>[Staff page](https://library.uncw.edu/staff/lynnee_argabright)</p>
 	</dd>
-	<dt>Erica Hayes</dt>
+	<dt><b>Erica Hayes</b></dt>
 	<dd>
 		<p>[Staff page](https://library.villanova.edu/about-falvey/contact-us/staff/erica-hayes)</p>
 	</dd>
-	<dt>Lilian Hogendoorn</dt>
+	<dt><b>Lilian Hogendoorn</b></dt>
 	<dd>
 		<p>[Website](https://lillian-hogendoorn.info/about/)</p>
 	</dd>
