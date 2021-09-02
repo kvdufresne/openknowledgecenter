@@ -8,7 +8,7 @@ permalink: /people/
 
 <h3 id="content">Our people </h3>
 <dl>
-<dt>Will Cross</dt>
+<dt>*Will Cross*</dt>
 	<dd>
 		<p>Director, Open Knowledge Center &amp; Head of Information Policy [wmcross@ncsu.edu](mailto:wmcross@ncsu.edu)
 		<ul>
