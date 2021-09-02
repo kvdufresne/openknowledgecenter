@@ -105,12 +105,7 @@ permalink: /people/
 		<p>[Website](https://lillian-hogendoorn.info/about/)</p>
 	</dd>
 </dl>	
-	<!-- Break -->
-
-
-
-
-</div>
+	
 
 
 
