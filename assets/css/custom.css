@@ -1,14 +1,15 @@
 body {
   font-family: 'Montserrat', sans-serif;
-  margin: 0;
   padding: 0;
-  text-align: center;
+  margin-right: 100px;
+  margin-left: 100px;
+  text-align: left;
 }
 
 header {
-  font-family: 'Monoton', cursive;
+  font-family: 'Syncopate', sans-serif;
   height: 80px;
-  text-align: center;
+  text-align: left;
   background-color: #87BAAB;
   background: url(/assets/images/OpenScholarsProject_white.png) no-repeat center top fixed;
   background-size: cover;
@@ -17,19 +18,18 @@ header {
 footer {
   height: 100px;
   padding-top: 10px;
-  text-align: center;
+  text-align: left;
   background-color: #5E5B52;
   color: #FFFFFF;
 }
 
 footer a {
-   background-color: #F1DB4B;
    color: #FFFFFF;
 }
  
  h1 {
    color: #000000;
-   font-family: 'Monoton', cursive;
+   font-family: 'Syncopate', sans-serif;
    font-size: 80pt;
 }
 
