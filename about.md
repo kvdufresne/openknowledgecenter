@@ -5,6 +5,11 @@ permalink: /about/
 handle: about
 ---
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@100&family=Urbanist:wght@700&display=swap" rel="stylesheet">
+
+
 <section id="one">
 	<div class="inner">
 <h1 id="content">Who we are, what we do, and why we do it</h1>
