@@ -1,7 +1,7 @@
 body {
   font-family:'Urbanist', sans-serif;
   padding: 0;
-  margin-right: 0px;
+  margin-right: 600px;
   margin-left: 100px;
   background-color: #ffffff;
   text-align: left;
@@ -12,7 +12,7 @@ header {
   font-color: #ffffff;
   height: 300px;
   text-align: left;
-  margin-right: 600px;
+  margin-right: 0px;
   background-color: #E4DCE0;
   background-size: cover;
 }
