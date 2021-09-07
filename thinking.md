@@ -3,6 +3,10 @@ layout: default
 title: Thinking
 permalink: /thinking/
 handle: Thinking
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@100&display=swap" rel="stylesheet">
 ---
 
 # Things we are writing and researching
