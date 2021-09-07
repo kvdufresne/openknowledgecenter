@@ -10,7 +10,7 @@ handle: Doing
 <link href="https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Urbanist:wght@300&display=swap" rel="stylesheet">
 
 
-### Key Projects (large and small)
+### Key Projects 
 
 #### Open Science
   
@@ -30,6 +30,7 @@ handle: Doing
 
   - [**Code of Best Practices in Fair Use for Open Educational Resources**](https://www.wcl.american.edu/impact/initiatives-programs/pijip/impact/best-practices-in-fair-use/best-practices-in-fair-use-for-open-educational-resources/)
     - The Code of Best Practices in Fair Use for Open Education is a tool for educators, librarians, and authors to evaluate common professional scenarios where fair use can enable them to incorporate inserts to create OER. It can provide groups working on OER projects with a shared framework for evaluating and understanding when and how to incorporate existing content to meet pedagogical needs. The Code of Best Practices has been presented at [OpenEd20](https://opened20.sched.com/event/fCpV/how-would-you-teach-if-copyright-wasnt-in-the-way-best-practices-in-fair-use-and-fair-dealing?iframe=no) and the [Open Education Network&#39;s Summer Institute](https://www.youtube.com/watch?v=b_LNgeQCOV0&amp;list=PLWRE6ioG4vdZbJGUCc0XquZi23EHXXLKM&amp;index=6) as well as in our [Resilient Digital Materials for Teaching and Learning series](https://www.youtube.com/playlist?list=PLuk2SmOxN5RIdPF50cTEMa8ItP2_irAKV). It is generously supported by the Hewlett Foundation and the Institute of Museum and Library Services (RE-248701-OLS).
+ 
   - [**Scholarly Communication Notebook**](https://www.oercommons.org/hubs/SCN)
     - The Scholarly Communication Notebook (SCN) is a repository of community-designed open resources for teaching about scholarly communication and for doing scholarly communication work in libraries. We intend the SCN to be the locus of an active, inclusive, empowered community of practice for teaching scholarly communications to emerging librarians, where practitioners, LIS educators, and library students work together to increase knowledge and skills on topics of growing importance in librarianship and beyond; topics such as copyright, open access, open education, and library publishing (see Collections below for more topic areas). We hope these resources will be regularly refreshed by librarians and allies as well as by LIS faculty and by students completing coursework on these topics, and that mutually beneficial relationships and bridges are built between users. It is generously supported by the Institute of Museum and Library Services (LG-36-19-0021-19)
   - [**OER + ScholComm**](https://lisoer.wordpress.ncsu.edu/)
@@ -57,11 +58,11 @@ handle: Doing
 <br>
 <br>
 
-### Works in Progress/Sketches
+### Works in Progress & Sketches
 
 - [Communicated Scholarship](https://docs.google.com/document/d/1YjvIr8RN8jFEeLz5vbN5vsJNQtUCi2Y4\_23IvN1HT9o/edit?usp=sharing)
 
-### Resources/Research
+### Resources & Research
 
 - [Copyright in the Open](https://sites.google.com/ncsu.edu/ncsucopyrightworkshop-sp21/home)
 - [Introduction to Surveillance Capitalism](https://docs.google.com/presentation/d/1D-MXNc0JED4f--lCtxvWqihrVJ33kJNVyz5A2U4v8I0/edit?usp=sharing)
