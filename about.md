@@ -68,7 +68,7 @@ The purpose of the OKC is to advance community-centered and academically produce
 	<br>
 	<br>
 
-# Open Knowledge Center Team
+<h1 id="content">Open Knowledge Center Team </h1>
 
 <h3 id="content">Our people </h3>
 <dl>
