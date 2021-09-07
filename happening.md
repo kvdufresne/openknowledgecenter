@@ -8,15 +8,10 @@ permalink: /happening/
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Urbanist:wght@300&display=swap" rel="stylesheet">
 
-# Happening 
 
-## Events
+### Training
 
-## Training
-
-**Coming Soon**
-
-**Past Workshops**
+#### Past Workshops
   - [**Open Science for Graduate Students**](https://docs.google.com/document/d/1MFJaP9qdit1xn2Wl1NQ3g3npBXa3u-iy7Y5CQdKKcvY/edit?usp=sharing)
   - [**What is Digital Scholarship?**](https://docs.google.com/presentation/d/11HGpNbTfuGIb9Be_RpOTFkkk87G-ityyv1OmfdEdfrc/edit?usp=sharing)
   - [**Publishing**](https://drive.google.com/drive/folders/1OMpnVj4i3ImI8xaT4dk9vuojJ_lDj6v6?usp=sharing)
@@ -35,16 +30,23 @@ permalink: /happening/
       Part 2: [Demystifying bias in data and AI: How can an algorithm be biased? Workshop slides](https://docs.google.com/presentation/d/1ZeRc4zU3a4Aje8vqbyocg4f4PMHxKdqZa-VYt8gJzuY/edit#slide=id.gceba9b88c9_0_161) 
       Data science and artificial intelligence inform decisions in research, business, and politics. Over the last several years, scholars like Safiya Noble and Cathy O&#39;Neil have drawn increasing attention to the ways that data- and algorithm-driven decision making problematically reproduces prejudice and systemic injustice. In this conversational workshop, we explored several case studies to show how the data that drives decisions can embed social biases, like racism and sexism, and how the algorithms used in research and business can themselves be oppressive. This workshop built familiarity with key issues and suggested further readings so that those new to the concepts would be better equipped to take a critical perspective in relation to our data-driven world.
 
-  
+<br>
+<br>
 
-**Initiatives**
+### Initiatives
 
-- [**Alt Textbook**](https://www.lib.ncsu.edu/alttextbook)
+[**Alt Textbook**](https://www.lib.ncsu.edu/alttextbook)
+
    The NC State University Libraries is committed to fostering change in the current textbook publishing environment. The Libraries&#39; [Open Knowledge Center](https://www.lib.ncsu.edu/department/okc) is available to partner with faculty members on licensing resources, using digital repositories, and creating and publishing their own open educational resources. The Alt-Textbook Project empowers faculty to innovate pedagogically, enhance access for NC State students to high-quality, tailored educational materials, and reduce the financial burden of expensive textbooks.
+   
+ <br>
+<br>
 
-**Incubators**
+### Incubators
 
-- [**Open Pedagogy Incubator**](https://www.lib.ncsu.edu/open-pedagogy-incubator)
-  - The Open Pedagogy Incubator is a semester-long program designed to incentivize faculty to go beyond the first step in open education - adopting open course materials - to implement multiple open-enabled practices in their courses. Modeled on our successful Alt-Textbook program and the 2019 pilot of our OPEN Incubator, the Open Pedagogy Incubator brings together a cohort of faculty instructors to develop competencies in open pedagogy through a series of hands-on workshops, curated readings, and cohort discussions.
-- [**Open Incubator**](https://www.lib.ncsu.edu/open-incubator)
-  - The OPEN (Open Project Engagement Network)Incubator is a research development program designed to advance a project from idea to proof-of-concept. Facilitators from the [Open Knowledge Center](https://www.lib.ncsu.edu/department/okc) and NC State University Libraries guide participants through a cohort-based collaborative experience that introduces open research principles and offers strategies for applying those principles to produce research outputs that are [FAIR](https://en.wikipedia.org/wiki/FAIR_data)—Findable, Accessible, Interoperable, and Reusable.
+[**Open Pedagogy Incubator**](https://www.lib.ncsu.edu/open-pedagogy-incubator)
+
+The Open Pedagogy Incubator is a semester-long program designed to incentivize faculty to go beyond the first step in open education - adopting open course materials - to implement multiple open-enabled practices in their courses. Modeled on our successful Alt-Textbook program and the 2019 pilot of our OPEN Incubator, the Open Pedagogy Incubator brings together a cohort of faculty instructors to develop competencies in open pedagogy through a series of hands-on workshops, curated readings, and cohort discussions.
+<br>
+[**Open Incubator**](https://www.lib.ncsu.edu/open-incubator)
+The OPEN (Open Project Engagement Network)Incubator is a research development program designed to advance a project from idea to proof-of-concept. Facilitators from the [Open Knowledge Center](https://www.lib.ncsu.edu/department/okc) and NC State University Libraries guide participants through a cohort-based collaborative experience that introduces open research principles and offers strategies for applying those principles to produce research outputs that are [FAIR](https://en.wikipedia.org/wiki/FAIR_data)—Findable, Accessible, Interoperable, and Reusable.
