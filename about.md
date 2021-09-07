@@ -29,23 +29,30 @@ handle: about
 
 ### Our Principles
 
-## 1   We believe that knowledge is a public good.
+## 1   
+#### We believe that knowledge is a public good.
 	
-## 2   We see open as a means to increase access and benefit of new knowledge in society.
+## 2   
+#### We see open as a means to increase access and benefit of new knowledge in society.
 	
-## 3   We will lead and collaborate with critical kindness and care, transparency, responsibility, and equity.
+## 3   
+#### We will lead and collaborate with critical kindness and care, transparency, responsibility, and equity.
 
-## 4   When we work with others, we work in a manner that benefits them.
+## 4   
+#### When we work with others, we work in a manner that benefits them.
 	
-## 5   We aim to walk the walk and do the open work.
+## 5   
+#### We aim to walk the walk and do the open work.
 	
-## 6   We prioritize working with communities.
+## 6   
+#### We prioritize working with communities.
 	
-## 7   We will measure, share, and reflect as we learn, do, and grow.
+## 7   
+#### We will measure, share, and reflect as we learn, do, and grow.
 
-## 8   We recognize that our impact is greater than our intent, and we will acknowledge when OKC is/does wrong and learn from it.
-	<br>
-	<br>
+## 8   
+#### We recognize that our impact is greater than our intent, and we will acknowledge when OKC is/does wrong and learn from it.
+	
 
 
 
