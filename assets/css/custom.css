@@ -8,7 +8,7 @@ body {
 
 header {
   font-family: 'Bungee Shade', cursive;
-  height: 100px;
+  height: 300px;
   text-align: left;
   background-color: #87BAAB;
   background-size: cover;
@@ -31,8 +31,26 @@ footer a {
  h1 {
    color: #000000;
    font-family: 'Bungee Shade', cursive;
-   font-size: 80pt;
+   font-size: 60pt;
 }
+
+h2 {
+   color: #000000;
+   font-family: 'Bungee Shade', cursive;
+   font-size: 37pt;
+}
+h3 {
+   color: #000000;
+   font-family: 'Bungee Shade', cursive;
+   font-size: 30pt;
+}
+h4 {
+   color: #000000;
+   font-family: 'Bungee Shade', cursive;
+   font-size: 21pt;
+}
+
+
 
 a {
   color:#EF6461;
@@ -72,6 +90,7 @@ div#publications img {
 @media screen and (max-width: 4000px) {
     .container { 
        width: 90%;
+       text-align: center;
      }
      
      nav {
@@ -265,30 +284,6 @@ div#publications img {
 }
 
 
-$mdc-typography-styles-headline1: (
-  font-family: unquote("Bungee Shade"),
-  font-size: 60
-);
-$mdc-typography-styles-headline2: (
-  font-family: unquote("Bungee Shade"),
-  font-size: 37
-);
-$mdc-typography-styles-headline3: (
-  font-family: unquote("Bungee Shade"),
-  font-size: 30
-);
-$mdc-typography-styles-headline4: (
-  font-family: unquote("Bungee Shade"),
-  font-size: 21
-);
-$mdc-typography-styles-headline5: (
-  font-family: unquote("Bungee Shade"),
-  font-size: 15
-);
-$mdc-typography-styles-headline6: (
-  font-family: unquote("Bungee Shade"),
-  font-size: 12
-);
 
 
 
