@@ -1,7 +1,7 @@
 body {
   font-family: 'Montserrat', sans-serif;
   padding: 0;
-  margin-right: 250px;
+  margin-right: 350px;
   margin-left: 100px;
   text-align: left;
 }
@@ -135,7 +135,7 @@ div#publications img {
      }
 
      .dropdown-content a:hover {
-       background-color: #CEB888;
+       background-color: #EF6461;
      }
 
      .dropdown:hover .dropdown-content {
