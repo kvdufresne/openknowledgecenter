@@ -29,33 +29,33 @@ But, we all know that societal impact is larger and more nuanced than any list c
 
 ### Media Recommendations 
 
-#### [*Data Feminism*](https://mitpress.mit.edu/books/data-feminism), by Catherine D'Ignazio and Lauren F. Klein, provides a new way of thinking about data science and data ethics that is informed by the ideas of intersectional feminism.
+[*Data Feminism*](https://mitpress.mit.edu/books/data-feminism), by Catherine D'Ignazio and Lauren F. Klein, provides a new way of thinking about data science and data ethics that is informed by the ideas of intersectional feminism.
 
-#### In [Community Data as Collective Care](https://abigailfeldman1.medium.com/community-data-as-collective-care-ed82aad73c5d) Abigail Feldman explores why designers should empower communities to steward their own data.
+In [Community Data as Collective Care](https://abigailfeldman1.medium.com/community-data-as-collective-care-ed82aad73c5d) Abigail Feldman explores why designers should empower communities to steward their own data.
 
-#### [&quot;Design Justice: Community-Led Practices to Build the Worlds We Need&quot by Sasha Costanza-Chock](https://direct.mit.edu/books/book/4605/Design-JusticeCommunity-Led-Practices-to-Build-the) explores how design might be led by marginalized communities, dismantle structural inequality, and advance collective liberation and ecological survival.
+[&quot;Design Justice: Community-Led Practices to Build the Worlds We Need&quot by Sasha Costanza-Chock](https://direct.mit.edu/books/book/4605/Design-JusticeCommunity-Led-Practices-to-Build-the) explores how design might be led by marginalized communities, dismantle structural inequality, and advance collective liberation and ecological survival.
 
-#### [*Glitch Feminism* by Legacy Russell](https://www.legacyrussell.com/GLITCHFEMINISM) is a new manifesto for cyberfeminism: finding liberation in the glitch between body, gender, and technology.
+[*Glitch Feminism* by Legacy Russell](https://www.legacyrussell.com/GLITCHFEMINISM) is a new manifesto for cyberfeminism: finding liberation in the glitch between body, gender, and technology.
 
-#### [&quot;Algorithms of Oppression: How Search Engines Reinforce Racism&quot; by Safiya Umoja Noble](https://nyupress.org/9781479837243/algorithms-of-oppression/) provides a look at how negative biases against women of color are embedded in search engine results and algorithms.
+[&quot;Algorithms of Oppression: How Search Engines Reinforce Racism&quot; by Safiya Umoja Noble](https://nyupress.org/9781479837243/algorithms-of-oppression/) provides a look at how negative biases against women of color are embedded in search engine results and algorithms.
 
-#### [COLLECTIVE WISDOM: Co-Creating Media within Communities, across Disciplines and with Algorithms](https://wip.mitpress.mit.edu/collectivewisdom) asks: *Why co-create and why now?*
+[COLLECTIVE WISDOM: Co-Creating Media within Communities, across Disciplines and with Algorithms](https://wip.mitpress.mit.edu/collectivewisdom) asks: *Why co-create and why now?*
 
-#### [#transformDH](https://transformdh.org/about-transformdh/) seeks to "(re)define capital-letter Digital Humanities as a force for transformative scholarship by collecting, sharing, and highlighting projects that push at its boundaries and work for social justice, accessibility, and inclusion” (#transformDH Tumblr).
+[#transformDH](https://transformdh.org/about-transformdh/) seeks to "(re)define capital-letter Digital Humanities as a force for transformative scholarship by collecting, sharing, and highlighting projects that push at its boundaries and work for social justice, accessibility, and inclusion” (#transformDH Tumblr).
 
-#### [Software licensing as feminist &amp; queer digital humanities practice](https://scholarslab.lib.virginia.edu/blog/software-licenses-feminist-queer-digital-humanities-practice/)
+[Software licensing as feminist &amp; queer digital humanities practice](https://scholarslab.lib.virginia.edu/blog/software-licenses-feminist-queer-digital-humanities-practice/)
 
-#### [&quot;Artificial Unintelligence: How Computers Misunderstand the World&quot; By Meredith Broussard](https://mitpress.mit.edu/books/artificial-unintelligence)
+[&quot;Artificial Unintelligence: How Computers Misunderstand the World&quot; By Meredith Broussard](https://mitpress.mit.edu/books/artificial-unintelligence)
 
-#### [History of the Web](https://webflow.com/ix2)
+[History of the Web](https://webflow.com/ix2)
 
-#### [&quot;Writing Machines&quot; by N. Katherine Hayles](https://mitpress.mit.edu/books/writing-machines)
+[&quot;Writing Machines&quot; by N. Katherine Hayles](https://mitpress.mit.edu/books/writing-machines)
 
-#### [Kai-Fu Lee: How AI can Save our Humanity](https://www.ted.com/talks/kai_fu_lee_how_ai_can_save_our_humanity#t-870858)
+[Kai-Fu Lee: How AI can Save our Humanity](https://www.ted.com/talks/kai_fu_lee_how_ai_can_save_our_humanity#t-870858)
 
-#### [Graceful Degradation](http://nowviskie.org/2009/graceful-degradation/)
+[Graceful Degradation](http://nowviskie.org/2009/graceful-degradation/)
 
-#### [Dear Data](http://www.dear-data.com/theproject)
+[Dear Data](http://www.dear-data.com/theproject)
 
 <br>
 <br>
