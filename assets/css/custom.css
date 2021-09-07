@@ -1,5 +1,5 @@
 body {
-  font-family:'Montserrat', sans-serif;
+  font-family:'Urbanist', sans-serif;
   padding: 0;
   margin-right: 600px;
   margin-left: 100px;
@@ -108,7 +108,7 @@ div#publications img {
        color: white;
        padding: 20px;
        font-size: inherit;
-       font-family: 'Montserrat', sans-serif;
+       font-family: 'Urbanist', sans-serif;
        background-color: inherit;
        margin: 0;
      }
@@ -222,7 +222,7 @@ div#publications img {
       width: 100%;
       color: white;
       font-size: 0.7em;
-      font-family: 'Montserrat', sans-serif;
+      font-family: 'Urbanist', sans-serif;
       background-color: inherit;
       text-align: center;
       margin: 0;
