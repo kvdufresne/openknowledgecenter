@@ -1,5 +1,5 @@
 body {
-  font-family: 'Urbanist', sans-serif;
+  font-family:'Montserrat', sans-serif;
   padding: 0;
   margin-right: 600px;
   margin-left: 100px;
@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  font-family: 'Azeret Mono', monospace;
+  font-family: 'Bungee Shade', cursive;
   height: 100px;
   text-align: left;
   background-color: #87BAAB;
@@ -30,7 +30,7 @@ footer a {
  
  h1 {
    color: #000000;
-   font-family: 'Syncopate', sans-serif;
+   font-family: 'Bungee Shade', cursive;
    font-size: 80pt;
 }
 
@@ -289,34 +289,7 @@ $mdc-typography-styles-headline6: (
   font-family: unquote("Bungee Shade"),
   font-size: 12
 );
-$mdc-typography-styles-body1: (
-  font-family: unquote("Raleway"),
-  font-size: 16
-);
-$mdc-typography-styles-body2: (
-  font-family: unquote("Raleway"),
-  font-size: 14
-);
-$mdc-typography-styles-subtitle1: (
-  font-family: unquote("Bungee Shade"),
-  font-size: 10
-);
-$mdc-typography-styles-subtitle2: (
-  font-family: unquote("Bungee Shade"),
-  font-size: 9
-);
-$mdc-typography-styles-button: (
-  font-family: unquote("Raleway"),
-  font-size: 14
-);
-$mdc-typography-styles-overline: (
-  font-family: unquote("Raleway"),
-  font-size: 10
-);
-$mdc-typography-styles-caption: (
-  font-family: unquote("Raleway"),
-  font-size: 12
-);
+
 
 
 /* Build a Material theme */
