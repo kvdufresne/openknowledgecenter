@@ -3,7 +3,7 @@ body {
   padding: 0;
   margin-right: 600px;
   margin-left: 100px;
-  background-color: #676F54;
+  background-color: #ffffff;
   text-align: left;
 }
 
@@ -12,7 +12,8 @@ header {
   font-color: #ffffff;
   height: 300px;
   text-align: left;
-  background-color: #321325;
+  margin-right: 600px;
+  background-color: #896978;
   background-size: cover;
 }
 
