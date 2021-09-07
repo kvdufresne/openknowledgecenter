@@ -52,56 +52,235 @@ h4 {
 
 
 
-<html>
-<head>
-<style>
-body {
-  margin: 0;
+a {
+  color:#EF6461;
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  width: 25%;
-  background-color: #f1f1f1;
-  position: fixed;
-  height: 100%;
-  overflow: auto;
+.container {
+  padding: 50px;
 }
 
-li a {
-  display: block;
-  color: #000;
-  padding: 8px 16px;
-  text-decoration: none;
+.preview {
+  width: 200px;
+  height:auto;
+  float:left;
+  padding: 30px;
+  clear:left;
 }
 
-li a.active {
-  background-color: #04AA6D;
-  color: white;
+.description {
+  padding: 20px;
+  min-height: 300px;
 }
 
-li a:hover:not(.active) {
-  background-color: #555;
-  color: white;
+table {
+  width: 100%;
+  padding: 30px;
 }
-</style>
-</head>
-<body>
 
-<ul>
-  <li><a class="index.md" href="#home">Home</a></li>
-  <li><a href="#about.md">About</a></li>
-  <li><a href="#team.md">Team</a></li>
-  <li><a href="#happening.md">Happening</a></li>
-  <li><a href="#thinking.md">Thinking</a></li>
-</ul>
+td {
+  text-align: left;
+  padding: 10px;
+}
 
+div#publications img {
+  width: auto;
+  height: 200px;
+}
 
+@media screen and (max-width: 4000px) {
+    .container { 
+       width: 90%;
+     }
+     
+     nav {
+       background-color:#F1DB4B;
+       width: 100%;
+       text-align: center;
+       top: 0;
+       position: fixed;
+     }
 
-</body>
-</html>
+     nav a {
+       color: #FFFFFF;
+       display: inline-block;
+       width: 100px;
+       height: 25px;
+       text-align: center;
+       padding: 20px;
+       text-decoration: none;
+       float:right;
+     }
+
+     nav a:hover {
+       background-color: #EF6461;
+       color: black;
+     }
+
+     .dropdown {
+         float: left;
+     }
+
+     .dropdown .dropbtn {  
+       border: none;
+       outline: none;
+       color: white;
+       padding: 20px;
+       font-size: inherit;
+       font-family: 'Urbanist', sans-serif;
+       background-color: inherit;
+       margin: 0;
+     }
+
+     nav a:hover, .dropdown:hover .dropbtn {
+       background-color: #EF6461;
+       color: #2C2A29;
+     }
+
+     .dropdown-content {
+       display: none;
+       position: absolute;
+       background-color: #782F40;
+       box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+       z-index: 1;
+     }
+
+     .dropdown-content a {
+       float: none;
+       color: white;
+       padding: 12px 16px;
+       text-decoration: none;
+       display: block;
+       text-align: left;
+     }
+
+     .dropdown-content a:hover {
+       background-color: #EF6461;
+     }
+
+     .dropdown:hover .dropdown-content {
+       display: block;
+     }
+     
+     h1{
+        font-size:48px;
+    }
+
+    h2{
+        font-size:36px;
+    }
+
+    header{
+        padding:150px;
+    }
+}
+@media screen and (max-width: 800px) {
+
+     .container {
+        width:550px;
+     }
+
+    h1 {
+        font-size:36px;
+    }
+
+    h2 {
+        font-size:24px;
+    }
+
+    header {
+        height:100px;
+        padding:100px;
+    }
+    nav a {
+        width:70px;
+        font-size:0.9em;
+        padding:20px;
+      }
+      
+    .dropdown .dropbtn {  
+        font-size: 0.9em;
+      }
+      
+    table,tr,td {
+      display:block;
+    }
+    
+    td img {
+      height: auto;
+    }
+
+}
+
+@media screen and (max-width: 450px) {
+    
+
+    body {
+	     font-size:1.0em;
+    }
+    
+    .container {
+      width: 300px;
+      padding: 50px;
+    }
+
+    nav a {
+        width:100%;
+        font-size:0.7em;
+        padding:10px;
+    }
+    
+    .dropdown {
+      float:none;
+      indent: 10px;
+    }
+    
+    .dropdown .dropbtn {  
+      border: none;
+      outline: none;
+      width: 100%;
+      color: white;
+      font-size: 0.7em;
+      font-family: 'Urbanist', sans-serif;
+      background-color: inherit;
+      text-align: center;
+      margin: 0;
+    }
+    
+    .dropdown-content {
+      width: 100%
+    }
+    
+    .dropdown-content a {
+      float: none;
+      color: white;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      text-align: center;
+    }
+
+    header {
+	     height:100px;
+	     padding-top:300px;
+    }
+
+    h1 {
+      font-size:36px;
+    }
+    
+    img {
+      width:100%;
+    }
+    
+    table,tr,td {
+      display: block;
+    }
+    
+    td img {
+      height: auto;
+    }
+    
 
 
 
