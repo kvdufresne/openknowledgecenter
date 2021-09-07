@@ -1,7 +1,7 @@
 ---
 layout: default 
 title: Team
-permalink: /people/
+permalink: /team/
 ---
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
