@@ -10,6 +10,7 @@ body {
 header {
   font-family: 'Bungee Shade', cursive;
   font-color: #ffffff;
+  font-size: 200;
   height: 300px;
   text-align: left;
   margin-right: 0px;
@@ -166,7 +167,7 @@ div#publications img {
      }
      
      h1{
-        font-size:48px;
+        font-size:200px;
     }
 
     h2{
@@ -269,7 +270,7 @@ div#publications img {
     }
 
     h1 {
-      font-size:36px;
+      font-size:200px;
     }
     
     img {
