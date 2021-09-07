@@ -31,45 +31,40 @@ handle: about
 
 ## 1
 	
-		<p>We believe that knowledge is a public good.</p>
+We believe that knowledge is a public good.
 	
-	<dt>2</dt>
-	<dd>
-		<p>We see open as a means to increase access and benefit of new knowledge in society.</p>
-	</dd>
-	<dt>3</dt>
-	<dd>
-		<p>We will lead and collaborate with critical kindness and care, transparency, responsibility, and equity.</p>
-	</dd>
-	<dt>4</dt>
-	<dd>
-		<p>When we work with others, we work in a manner that benefits them.</p>
-	</dd>
-	<dt>5</dt>
-	<dd>
-		<p>We aim to walk the walk and do the open work.</p>
-	</dd>
-	<dt>6</dt>
-	<dd>
-		<p>We prioritize working with communities.</p>
-	</dd>
-	<dt>7</dt>
-	<dd>
-		<p>We will measure, share, and reflect as we learn, do, and grow.</p>
-	</dd>
-	<dt>8</dt>
-	<dd>
-		<p>We recognize that our impact is greater than our intent, and we will acknowledge when OKC is/does wrong and learn from it.</p>
-	</dd>
-</dl>	
-	<!-- Break -->
+## 2
 	
+We see open as a means to increase access and benefit of new knowledge in society.
+	
+## 3
+
+We will lead and collaborate with critical kindness and care, transparency, responsibility, and equity.
+
+## 4
+
+When we work with others, we work in a manner that benefits them.
+	
+## 5
+	
+We aim to walk the walk and do the open work.
+	
+## 6
+	
+We prioritize working with communities.
+	
+## 7
+
+We will measure, share, and reflect as we learn, do, and grow.
+
+## 8
+
+We recognize that our impact is greater than our intent, and we will acknowledge when OKC is/does wrong and learn from it.
 	<br>
 	<br>
 
-<h1 id="content">Open Knowledge Center Team </h1>
 
-<h3 id="content">Our people </h3>
+<h3 id="content">Our Open Knowledge Center Team </h3>
 <dl>
 <dt><b>Will Cross</b></dt>
 	<dd>
