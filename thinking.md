@@ -49,7 +49,7 @@ But, we all know that societal impact is larger and more nuanced than any list c
 
 #### [History of the Web](https://webflow.com/ix2)
 
-[&quot;Writing Machines&quot; by N. Katherine Hayles](https://mitpress.mit.edu/books/writing-machines)
+#### [&quot;Writing Machines&quot; by N. Katherine Hayles](https://mitpress.mit.edu/books/writing-machines)
 
 #### [Kai-Fu Lee: How AI can Save our Humanity](https://www.ted.com/talks/kai_fu_lee_how_ai_can_save_our_humanity#t-870858)
 
