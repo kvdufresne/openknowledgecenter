@@ -10,9 +10,9 @@ handle: Doing
 <link href="https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Urbanist:wght@300&display=swap" rel="stylesheet">
 
 
-# Key Projects (large and small)
+### Key Projects (large and small)
 
-**Open Science**
+#### Open Science
   
   - [**Open Science and Reproducibili-Tea**](https://www.youtube.com/watch?v=Fa9-VUG4gxY&amp;list=PLD5mHyT9aLzP13puBVPmdVTHUy8kE46RH)
     - A monthly Twitch stream about open science hosted by Micah Vandegrift and Sheila Saia. The stream is designed to share their open science knowledge through an informal discussion, teaching concepts along the way, and welcoming and connecting NC State&#39;s open science work with a wider community.
@@ -23,7 +23,10 @@ handle: Doing
   - **UNC System Digital Course Library and OER Implementation Collection**
     - These resources gather reliable open resources and provides videos of presentations from authoritative speakers to answer the most frequent questions faculty ask about how and why to use OER in their courses. The OER Implementation Collection will provide a guide to finding and using OER for faculty and instructors who are interested in working with the UNC digital course enhancement collections and using other open educational resources in their teaching. The OER Implementation Collection was [presented at OpenEd20](https://opened20.sched.com/event/fCrL) and is generously supported with federal CARES Act funding.
 
-**Information Policy &amp; Copyright**
+<br>
+<br>
+
+#### Information Policy &amp; Copyright
 
   - [**Code of Best Practices in Fair Use for Open Educational Resources**](https://www.wcl.american.edu/impact/initiatives-programs/pijip/impact/best-practices-in-fair-use/best-practices-in-fair-use-for-open-educational-resources/)
     - The Code of Best Practices in Fair Use for Open Education is a tool for educators, librarians, and authors to evaluate common professional scenarios where fair use can enable them to incorporate inserts to create OER. It can provide groups working on OER projects with a shared framework for evaluating and understanding when and how to incorporate existing content to meet pedagogical needs. The Code of Best Practices has been presented at [OpenEd20](https://opened20.sched.com/event/fCpV/how-would-you-teach-if-copyright-wasnt-in-the-way-best-practices-in-fair-use-and-fair-dealing?iframe=no) and the [Open Education Network&#39;s Summer Institute](https://www.youtube.com/watch?v=b_LNgeQCOV0&amp;list=PLWRE6ioG4vdZbJGUCc0XquZi23EHXXLKM&amp;index=6) as well as in our [Resilient Digital Materials for Teaching and Learning series](https://www.youtube.com/playlist?list=PLuk2SmOxN5RIdPF50cTEMa8ItP2_irAKV). It is generously supported by the Hewlett Foundation and the Institute of Museum and Library Services (RE-248701-OLS).
@@ -36,8 +39,10 @@ handle: Doing
   - [**Open Pedagogy Incubator**](https://www.lib.ncsu.edu/open-pedagogy-incubator)
     - is a semester-long program designed to incentivize faculty to go beyond the first step in open education – adopting open course materials – to implement multiple open-enabled practices in their courses. Modeled on the[Libraries Alt-Textbook program](https://www.lib.ncsu.edu/alttextbook) and the 2019 pilot of our[OPEN Incubator,](https://www.lib.ncsu.edu/open-incubator) the Open Pedagogy Incubator brings together a cohort of faculty instructors to develop competencies in open pedagogy through a series of hands-on workshops, curated readings, and cohort discussions. The Open Pedagogy Incubator was presented at[OER20](https://oer20.oerconf.org/sessions/o-080/) in London and[OpenEd20](https://opened20.sched.com/event/fCr9/the-open-pedagogy-incubator-as-a-model-for-building-an-online-community-to-support-open-pedagogy) and was featured in the[2020 Horizon Report](https://library.educause.edu/resources/2020/3/2020-educause-horizon-report-teaching-and-learning-edition). You can read more about the program in this story and see all of our materials in our[OSF site](https://osf.io/gyrzb/).
   
+<br>
+<br>
 
-**Knowledge Production**
+#### Knowledge Production
   - [**Immersive Scholar**](https://www.immersivescholar.org/)
     - Immersive Scholar promotes models and good practices for the building and sharing of large-scale and immersive scholarly works. This program increases the impact of academic visualization environments and the scholarship created within them. Immersive Scholar was launched with the generous support of the Andrew W. Mellon Foundation.
   - [**Tally Tracker Explorer**](https://www.lib.ncsu.edu/projects/tally-tracker-explorer)
@@ -49,11 +54,14 @@ handle: Doing
   - [**Black Lives Matter Murals**](https://kvdufresne.github.io/Black-Lives-Matter-Murals/)
     - While made of various materials with different styles, these pieces of community-generated art all illustrate and amplify the important message that Black Lives Matter. Here, Slow looking is coupled with the murals to equip us with the opportunity to experience greater intentionality in sitting with these images, their messages, and the lived realities that they reflect and convey by slowly viewing the entirety of the mural and art.
 
-## Works in Progress/Sketches
+<br>
+<br>
+
+### Works in Progress/Sketches
 
 - [Communicated Scholarship](https://docs.google.com/document/d/1YjvIr8RN8jFEeLz5vbN5vsJNQtUCi2Y4\_23IvN1HT9o/edit?usp=sharing)
 
-## Resources/Research
+### Resources/Research
 
 - [Copyright in the Open](https://sites.google.com/ncsu.edu/ncsucopyrightworkshop-sp21/home)
 - [Introduction to Surveillance Capitalism](https://docs.google.com/presentation/d/1D-MXNc0JED4f--lCtxvWqihrVJ33kJNVyz5A2U4v8I0/edit?usp=sharing)
