@@ -3,6 +3,7 @@ body {
   padding: 0;
   margin-right: 600px;
   margin-left: 100px;
+  background-color: #676F54;
   text-align: left;
 }
 
@@ -20,7 +21,7 @@ footer {
   text-align: left;
   margin-right: 100px;
   margin-left: 100px;
-  background-color: #5E5B52;
+  background-color: #5F0F40;
   color: #FFFFFF;
 }
 
@@ -53,7 +54,7 @@ h4 {
 
 
 a {
-  color:#EF6461;
+  color:#b6c649;
 }
 
 .container {
@@ -94,7 +95,7 @@ div#publications img {
      }
      
      nav {
-       background-color:#F1DB4B;
+       background-color:#F48B01;
        width: 100%;
        text-align: center;
        top: 0;
@@ -113,7 +114,7 @@ div#publications img {
      }
 
      nav a:hover {
-       background-color: #EF6461;
+       background-color: #B6C649;
        color: black;
      }
 
@@ -155,7 +156,7 @@ div#publications img {
      }
 
      .dropdown-content a:hover {
-       background-color: #EF6461;
+       background-color: #B6C649;
      }
 
      .dropdown:hover .dropdown-content {
