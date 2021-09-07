@@ -1,5 +1,5 @@
 ---
-title: Open Knowledge Center 
+title: the OKC
 layout: default
 ---
 
