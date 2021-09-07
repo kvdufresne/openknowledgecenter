@@ -15,9 +15,6 @@ handle: about
 
 #### The Open Knowledge Center (OKC) is an incubator for communities, projects, initiatives, and programs that build on NC State’s strengths and leadership in public, open, and experimental approaches to research, scholarship, and education. The Center is staffed by librarians, graduate assistants, and visiting scholars with deep expertise on information policy, open research and scholarship, and knowledge production workflows, tools, and platforms. 
 <br>
-The Open Knowledge Center offers particular skills and expertise in: copyright, licensing, publishing, digital humanities, open education, open science, and critical approaches to data and technology.
-
-<br>
 <br>	
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTMyp8mbWMq6lH7MVqx402J1BXIuYS_jjQRsZVbMpEVnXKc2lbiib-eQFn4tgrhF64rnLpR875_whXh/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -31,11 +28,11 @@ The Open Knowledge Center offers particular skills and expertise in: copyright, 
 <br>
 
 ### Our Principles
-<d1>
-	## 1
-	<dd>
+
+## 1
+	
 		<p>We believe that knowledge is a public good.</p>
-	</dd>
+	
 	<dt>2</dt>
 	<dd>
 		<p>We see open as a means to increase access and benefit of new knowledge in society.</p>
