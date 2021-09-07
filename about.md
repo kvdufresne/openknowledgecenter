@@ -28,10 +28,10 @@ Open knowledge is important as part of educational equity (in the academy), but 
 ### Our Principles
 
 ## 1   
-<p style="margin-left:10%; margin-right:10%;"> #### We believe that knowledge is a public good.
+#### We believe that knowledge is a public good.
 	
 ## 2   
-#### <p style="margin-left:10%; margin-right:10%;"> We see open as a means to increase access and benefit of new knowledge in society.
+#### We see open as a means to increase access and benefit of new knowledge in society.
 	
 ## 3   
 #### We will lead and collaborate with critical kindness and care, transparency, responsibility, and equity.
