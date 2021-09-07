@@ -4,6 +4,10 @@ title: Team
 permalink: /people/
 ---
 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Montserrat&display=swap" rel="stylesheet">
+
 # Open Knowledge Center Team
 
 <h3 id="content">Our people </h3>
