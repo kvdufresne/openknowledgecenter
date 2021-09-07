@@ -1,7 +1,7 @@
 body {
   font-family:'Urbanist', sans-serif;
   padding: 0;
-  margin-right: 600px;
+  margin-right: 0px;
   margin-left: 100px;
   background-color: #ffffff;
   text-align: left;
@@ -21,8 +21,8 @@ footer {
   height: 100px;
   padding-top: 10px;
   text-align: left;
-  margin-right: 100px;
-  margin-left: 100px;
+  margin-right: 10px;
+  margin-left: 10px;
   background-color: #676F54;
   color: #FFFFFF;
 }
