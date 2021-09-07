@@ -266,28 +266,28 @@ div#publications img {
 
 
 $mdc-typography-styles-headline1: (
-  font-family: unquote("Poppins"),
-  font-size: 93
+  font-family: unquote("Bungee Shade"),
+  font-size: 60
 );
 $mdc-typography-styles-headline2: (
-  font-family: unquote("Poppins"),
-  font-size: 58
+  font-family: unquote("Bungee Shade"),
+  font-size: 37
 );
 $mdc-typography-styles-headline3: (
-  font-family: unquote("Poppins"),
-  font-size: 46
+  font-family: unquote("Bungee Shade"),
+  font-size: 30
 );
 $mdc-typography-styles-headline4: (
-  font-family: unquote("Poppins"),
-  font-size: 33
+  font-family: unquote("Bungee Shade"),
+  font-size: 21
 );
 $mdc-typography-styles-headline5: (
-  font-family: unquote("Poppins"),
-  font-size: 23
+  font-family: unquote("Bungee Shade"),
+  font-size: 15
 );
 $mdc-typography-styles-headline6: (
-  font-family: unquote("Poppins"),
-  font-size: 19
+  font-family: unquote("Bungee Shade"),
+  font-size: 12
 );
 $mdc-typography-styles-body1: (
   font-family: unquote("Raleway"),
@@ -298,12 +298,12 @@ $mdc-typography-styles-body2: (
   font-size: 14
 );
 $mdc-typography-styles-subtitle1: (
-  font-family: unquote("Poppins"),
-  font-size: 15
+  font-family: unquote("Bungee Shade"),
+  font-size: 10
 );
 $mdc-typography-styles-subtitle2: (
-  font-family: unquote("Poppins"),
-  font-size: 13
+  font-family: unquote("Bungee Shade"),
+  font-size: 9
 );
 $mdc-typography-styles-button: (
   font-family: unquote("Raleway"),
@@ -317,3 +317,5 @@ $mdc-typography-styles-caption: (
   font-family: unquote("Raleway"),
   font-size: 12
 );
+
+
