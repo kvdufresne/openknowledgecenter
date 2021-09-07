@@ -9,9 +9,10 @@ body {
 
 header {
   font-family: 'Bungee Shade', cursive;
-  height: 100px;
+  font-color: #ffffff;
+  height: 300px;
   text-align: left;
-  background-color: #87BAAB;
+  background-color: #321325;
   background-size: cover;
 }
 
