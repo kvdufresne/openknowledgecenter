@@ -1,14 +1,14 @@
 body {
   font-family: 'Montserrat', sans-serif;
   padding: 0;
-  margin-right: 100px;
+  margin-right: 250px;
   margin-left: 100px;
   text-align: left;
 }
 
 header {
   font-family: 'Syncopate', sans-serif;
-  height: 80px;
+  height: 100px;
   text-align: left;
   background-color: #87BAAB;
   background: url(/assets/images/OpenScholarsProject_white.png) no-repeat center top fixed;
@@ -113,7 +113,7 @@ div#publications img {
      }
 
      nav a:hover, .dropdown:hover .dropbtn {
-       background-color: #CEB888;
+       background-color: #EF6461;
        color: #2C2A29;
      }
 
