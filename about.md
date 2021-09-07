@@ -17,7 +17,7 @@ The Open Knowledge Center (OKC) is an incubator for communities, projects, initi
 <br>
 <br>	
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTMyp8mbWMq6lH7MVqx402J1BXIuYS_jjQRsZVbMpEVnXKc2lbiib-eQFn4tgrhF64rnLpR875_whXh/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTMyp8mbWMq6lH7MVqx402J1BXIuYS_jjQRsZVbMpEVnXKc2lbiib-eQFn4tgrhF64rnLpR875_whXh/embed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" margin="auto" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 	
 <br>
 <br>
