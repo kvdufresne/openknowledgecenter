@@ -8,9 +8,7 @@ permalink: /team/
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Montserrat&display=swap" rel="stylesheet">
 
-# Open Knowledge Center Team
-
-<h3 id="content">Our people </h3>
+<h3 id="content">Our Open Knowledge Center Team </h3>
 <dl>
 <dt><b>Will Cross</b></dt>
 	<dd>
@@ -77,27 +75,35 @@ permalink: /team/
 	</dd>
 	
 </dl>	
-	<br>
+
+<br>
+<br>
+	
 <h3 id="content">Our alums</h3>
  <dl>
 <b><a href="https://csbailey.org/">Scott Bailey</a></b>
 	<br>
+	<br>
 <b><a href="http://www.allisonkittinger.com/">Allison Kittinger</a></b>
+	<br>
 	<br>
 <b><a href="http://carriedianehill.com/">Carrie Hill</a></b>
 	<br>
+	<br>
 <b><a href="http://nathandwoods.net/">Nathan Woods</a></b>
+	<br>
 	<br>
 <b><a href="https://libguides.iwu.edu/prf.php?account_id=291300">Abby Mann</a></b>
 	<br>
+	<br>
 <b><a href="https://library.uncw.edu/staff/lynnee_argabright">Lynnee Argabright</a></b>
 	<br>
+	<br>
 <b><a href="https://library.villanova.edu/about-falvey/contact-us/staff/erica-hayes">Erica Hayes</a></b>
+	<br>
 	<br>
 <b><a href="https://lillian-hogendoorn.info/about/">Lilian Hogendoorn</a></b>
 
 </dl>	
-	
-
 
 
