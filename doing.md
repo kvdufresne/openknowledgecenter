@@ -10,9 +10,7 @@ handle: Doing
 <link href="https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Urbanist:wght@300&display=swap" rel="stylesheet">
 
 
-# Doing
-
-## Key Projects (large and small)
+# Key Projects (large and small)
 
 **Open Science**
   
