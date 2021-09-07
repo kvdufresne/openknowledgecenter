@@ -42,12 +42,12 @@ h2 {
 }
 h3 {
    color: #000000;
-   font-family: 'Bungee Shade', cursive;
+   font-family: 'Urbanist', sans-serif;
    font-size: 30pt;
 }
 h4 {
    color: #000000;
-   font-family: 'Bungee Shade', cursive;
+   font-family: 'Urbanist', sans-serif;
    font-size: 21pt;
 }
 
@@ -80,7 +80,7 @@ table {
 }
 
 td {
-  text-align: center;
+  text-align: left;
   padding: 10px;
 }
 
@@ -88,6 +88,7 @@ div#publications img {
   width: auto;
   height: 200px;
 }
+
 @media screen and (max-width: 4000px) {
     .container { 
        width: 90%;
@@ -287,12 +288,6 @@ div#publications img {
 
 
 
-/* Build a Material theme */
-// To begin customizing your theme, modify these variables. By default each theme starts off with our baseline values, so you can easily swap them out.
-
-
-/*  Typography */
-// To change your theme's typography, we recommend importing a font from Google Fonts and setting the global font-family https://fonts.google.com
 
 @import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
 $mdc-typography-font-family: unquote("Bungee Shade, cursive");
