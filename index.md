@@ -1,5 +1,5 @@
 ---
-title: Open Knowledge Center @ NC State University 
+title: Open Knowledge Center 
 layout: default
 ---
 
