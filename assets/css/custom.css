@@ -18,6 +18,8 @@ footer {
   height: 100px;
   padding-top: 10px;
   text-align: left;
+  margin-right: 100px;
+  margin-left: 100px;
   background-color: #5E5B52;
   color: #FFFFFF;
 }
