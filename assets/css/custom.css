@@ -33,7 +33,7 @@ footer a {
  h1 {
    color: #000000;
    font-family: 'Bungee Shade', cursive;
-   font-size: 50vw;	 
+   font-size: 380pt;	 
 }
 
 h2 {
@@ -165,7 +165,8 @@ div#publications img {
      }
      
      h1{
-        font-size:150px;
+        
+	font-size: 75vw;     
     }
 
     h2{
