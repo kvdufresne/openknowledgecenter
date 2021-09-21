@@ -14,6 +14,7 @@ handle: Thinking
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ### Things we are writing and researching
 
