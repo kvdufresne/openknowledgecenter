@@ -16,8 +16,9 @@ layout: default
 
 #### The Open Knowledge Center offers particular skills and expertise in: copyright, licensing, publishing, digital humanities, open education, computational text analysis, open science, and critical approaches to data and technology. 
 
-
-
+<br>
+<br>
+#### game on.
 <br>
 
 <br>
